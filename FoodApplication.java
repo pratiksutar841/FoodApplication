@@ -75,7 +75,7 @@ public class FoodApplication
         }
         else
         {
-            System.out.println("Alright have a good day");
+            System.out.println("Allright have a good day");
         }
     }
 }
